@@ -11,11 +11,15 @@
 
 Lets begin!
 
-This is a **React-Firebase** based Application.
+This repository is for  **React-Firebase** based Application.
 
-###### Demo:
+For **AspCore-React-Firebase** based Application code refer the below repository.
+[Click here for AspCore-React-Firebase repo ](https://github.com/akshayd21/imdbaspcoretask/tree/master "Click here for demo")
+
+
+###### Live Demo:
 *In case if you want to check it live*
-[Click here for demo](https://codesandbox.io/s/github/akshayd21/IMDBTask "Click here for demo")
+[Click here for live demo](https://codesandbox.io/s/github/akshayd21/IMDBTask "Click here for live demo")
 
 ###### Libraries:
 [React Bootsrap](https://react-bootstrap.github.io/ "React Bootsrap") was used for the UI and basic form elements.
