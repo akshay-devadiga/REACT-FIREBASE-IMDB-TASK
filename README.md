@@ -29,7 +29,7 @@ Lets begin!
 
 
 ------------
-###### I. Description:
+# I. Description:
 I have used two Approaches 
 1. **React-Firebase Application**
 2. **AspCore-React-Firebase Application**
@@ -59,7 +59,7 @@ For **AspCore-React-Firebase** based Application code refer the below repository
 ------------
 
 ------------
-###### 3.Libraries:
+# 3.Libraries:
 [React Bootsrap](https://react-bootstrap.github.io/ "React Bootsrap") was used for the UI and basic form elements.
 *Below Libraries were used for the elements that were not available in above library.*
 [react-datepicker](https://www.npmjs.com/package/react-datepicker "react-datepicker") for date of birth.
@@ -71,11 +71,12 @@ For **AspCore-React-Firebase** based Application code refer the below repository
 ------------
 
 ------------
-###### 4.Validations:
+# 4.Validations:
 **Movie name:**
 
 Check if movie name is empty.
 Check if movie is already present in database.
+
 **Year of release:**
 
 Check if year of release is empty.
@@ -114,7 +115,7 @@ Check if bio entered is empty.
 ------------
 
 ------------
-###### 5.Database: 
+# 5.Database: 
 [(Optional) Check this guide if you want to setup new database or import the database ](https://drive.google.com/file/d/1DT7FXYP4dUAtD0KTw5FBOJea65X1rDNO/view?usp=sharing "(Optional) Check this guide if you want to setup new database or import the existing database ")
 
 
@@ -123,7 +124,7 @@ Check if bio entered is empty.
 ------------
 
 ------------
-###### 6.Screenshots:
+# 6.Screenshots:
 
 **1. Create Movie Page**:
 
@@ -148,7 +149,7 @@ Check if bio entered is empty.
 ------------
 
 ------------
-###### 7.Gif's
+# 7.Gif's
 
 
 ***Search box with search by word,number functionality along with sort by column functionality.***
