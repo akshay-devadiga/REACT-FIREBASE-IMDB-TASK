@@ -14,8 +14,22 @@
 
 Lets begin!
 
+|  Title no | Title Name   |
+| ------------ | ------------ |
+| I  | Description   |
+|  II | Live Demo |
+|  III | Libraries  |
+|  IV |  Validations |
+|  V |  Database |
+|  VI |  Screenshots |
+|  VII |  Gif's |
+
+
+
+
+
 ------------
-###### Description:
+###### I. Description:
 I have used two Approaches 
 1. **React-Firebase Application**
 2. **AspCore-React-Firebase Application**
@@ -37,7 +51,7 @@ For **AspCore-React-Firebase** based Application code refer the below repository
 
 
 
-# Live Demo:
+# 2.Live Demo:
 *In case if you want to check it live*
 [Click here for live demo](https://codesandbox.io/s/github/akshayd21/IMDBTask "Click here for live demo")
 
@@ -45,7 +59,7 @@ For **AspCore-React-Firebase** based Application code refer the below repository
 ------------
 
 ------------
-###### Libraries:
+###### 3.Libraries:
 [React Bootsrap](https://react-bootstrap.github.io/ "React Bootsrap") was used for the UI and basic form elements.
 *Below Libraries were used for the elements that were not available in above library.*
 [react-datepicker](https://www.npmjs.com/package/react-datepicker "react-datepicker") for date of birth.
@@ -57,7 +71,7 @@ For **AspCore-React-Firebase** based Application code refer the below repository
 ------------
 
 ------------
-###### Validations:
+###### 4.Validations:
 **Movie name:**
 
 Check if movie name is empty.
@@ -100,14 +114,53 @@ Check if bio entered is empty.
 ------------
 
 ------------
-###### Database: 
+###### 5.Database: 
 [(Optional) Check this guide if you want to setup new database or import the database ](https://drive.google.com/file/d/1DT7FXYP4dUAtD0KTw5FBOJea65X1rDNO/view?usp=sharing "(Optional) Check this guide if you want to setup new database or import the existing database ")
 
+
+[Download database](https://drive.google.com/file/d/1iQsyWlj79tVSvoEf0F45kId9MaZ7NaZY/view?usp=sharing "Download database")
+
 ------------
 
 ------------
-###### Screenshots:
+###### 6.Screenshots:
 
+**1. Create Movie Page**:
+
+![Create Movie Page](https://i.ibb.co/Fwn6RPX/create.png)
+
+**2. Add Actor Page: **
+
+![.Add Actor Page ](https://i.ibb.co/xH1q1pT/actor-modal.png)
+
+**3. Edit Movie Page**
+
+![.Edit Movie Page ](https://i.ibb.co/CnNd8zn/edit.png)
+
+**4. Movie List Page**
+
+![.Movie List Page ](https://i.ibb.co/nfwbgmQ/movies-list.png)
+
+**5. Database Screenshot**
+
+![.Database Screenshot](https://i.ibb.co/7jBFfkw/databasescreenshot.png)
+
+------------
+
+------------
+###### 7.Gif's
+
+
+***Search box with search by word,number functionality along with sort by column functionality.***
+
+![.Datatable Operation](https://i.ibb.co/mTxszTN/datatable-operation.gif)
+
+
+
+***Cast field search and checkbox functionality***
+
+
+![.Movie Operation](https://i.ibb.co/KsdzhVL/movie-operation.gif)
 
 
 
